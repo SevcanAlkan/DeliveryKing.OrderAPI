@@ -1,0 +1,6 @@
+[submodule "DeliveryKing.ViewModel"]
+	path = DeliveryKing.ViewModel
+	url = https://github.com/SevcanAlkan/DeliveryKing.ViewModel.git
+[submodule "DeliveryKing.Core"]
+	path = DeliveryKing.Core
+	url = https://github.com/SevcanAlkan/DeliveryKing.Core.git
